@@ -24,5 +24,7 @@ Day 1
      QFN packages offer several advantages, including small size, good thermal performance, and suitability for automated assembly processes such as pick-and-place machines. They are often used in applications where space is limited and heat dissipation is important, such as in mobile devices, automotive electronics, and consumer electronics.
 
      
+![Screenshot 2024-04-26 22 56 04](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/cfa5f632-a02e-4740-b6a7-a1b420bd9c52)
+
 
      
