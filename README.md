@@ -13,7 +13,7 @@ Day 1
 -Inception of open-source EDA, OpenLANE and sky130 PDK
 
 ## Day 1
-- Inception of open-source EDA, OpenLANE and sky130 PDK
+### Inception of open-source EDA, OpenLANE and sky130 PDK
 
    - How to talk to computers?
      - Introduction to QFN-48 Package, chip, pads, core, die and IPs
@@ -49,6 +49,15 @@ Day 1
 - Introduction to RISCV
   
   RISC-V is an open-source instruction set architecture (ISA) based on the Reduced Instruction Set Computing (RISC) principles.RISC-V offers a flexible, open-source alternative to proprietary instruction set architectures, enabling innovation, collaboration, and customization in the design of hardware and software systems.
+
+  A compiler is a software tool that translates high-level programming languages, such as C, C++, Java, or Python, into machine code or assembly language.Assembly language is a low-level programming language that closely resembles the binary machine code instructions of a particular computer architecture.Unlike compilers, which translate high-level source code into machine code, assemblers work directly with assembly language instructions and produce machine code that corresponds directly to those instructions.
+
+  ![Screenshot 2024-04-27 13 09 51](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/693a4202-e495-4c8a-8280-3f0da372d7eb)
+
+  - Soc design and OpenLANE
+    - Introduction to all components of open-source digital asic design
+    
+
 
   
 
