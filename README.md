@@ -46,3 +46,7 @@ Day 1
 
 ![Screenshot 2024-04-26 22 59 58](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/72ad3e25-1a4b-4824-9131-bc54da2d2e24)
 
+- Introduction to RISCV
+  
+  RISC-V is an open-source instruction set architecture (ISA) based on the Reduced Instruction Set Computing (RISC) principles.RISC-V offers a flexible, open-source alternative to proprietary instruction set architectures, enabling innovation, collaboration, and customization in the design of hardware and software systems.
+
