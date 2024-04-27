@@ -61,7 +61,31 @@ Day 1
 
       Opensource ASIC design includes EDA tools, PDK data and RTL designs.Electronic Design Automation (EDA) tools are software tools used by engineers and designers to design, analyze, and simulate electronic systems and integrated circuits (ICs). These tools facilitate the entire electronic design process, from concept and specification to implementation and verification. Various EDA tools are Qflow, OpenRoad, Openlane.
 
-      A Process Design Kit (PDK) is a set of files, models, and documentation provided by semiconductor foundries to enable the design and simulation of integrated circuits (ICs) using their fabrication processes. These kits are essential for designers to create IC layouts, simulate circuit performance, and verify designs before manufacturing. 
+      A Process Design Kit (PDK) is a set of files, models, and documentation provided by semiconductor foundries to enable the design and simulation of integrated circuits (ICs) using their fabrication processes. These kits are essential for designers to create IC layouts, simulate circuit performance, and verify designs before manufacturing.
+
+- Simplified RTL2GDS flow
+  
+  ![Screenshot 2024-04-27 14 16 07](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/d3622a2e-fe21-40f5-b6e2-b4e74dc7f974)
+
+  **Synthesis** It is the process in this RTL is converted to a circuit out of components from the standard cell library(SCL).
+  **Chip floor planning** Partition the chip die between different system building blocks and place the I/O pads.
+                           Power planning is the construction of power network.
+  **Placement** Place the cells on the floorplan rows,aligned with the sites.
+
+  It is usually done in two steps
+  1.Global
+  2.Detailed
+
+  **Clock Tree Synthesis** To deliver clock to all sequential elements.
+  **Routing** Implement the interconnect using the available metal layers.
+  **Sign off** Physical Verifications
+                 - Design Rule Checking
+                 - Layout vs Schematic
+  
+                 Timing Verification
+                 -Static Timing Analysis
+
+
 
 
     
