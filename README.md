@@ -83,7 +83,22 @@ Day 1
                  - Layout vs Schematic
   
                  Timing Verification
-                 -Static Timing Analysis
+                 - Static Timing Analysis
+
+  **Get familiar to open-source EDA tools**
+
+  - OpenLANE Directory structure in detail
+ 
+    **Openlane**OpenLANE is an open-source software toolflow for automated RTL-to-GDSII (Register Transfer Level to Graphic Data System II) design and implementation of digital integrated circuits. Developed by Efabless Corporation in collaboration with Google and SkyWater Technology Foundry, OpenLANE aims to democratize access to ASIC (Application-Specific Integrated Circuit) design by providing a free and open-source toolflow that leverages open-source EDA tools and PDKs.
+
+    ![Screenshot 2024-04-27 17 07 27](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/ce657753-7f7d-45ef-8338-e9739ae03005)
+
+Inorder to open the Openlane, run the ubuntu os in the virtual machine.
+![WhatsApp Image 2024-04-27 at 5 19 26 PM (1)](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/190fac3f-b0c8-4d40-a586-4f2bf3dc7b82)
+
+`Desktop/work/tools/openlane_working_dir/openlane`
+
+    
 
 
 
