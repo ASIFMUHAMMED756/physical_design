@@ -2,7 +2,7 @@
      
 # DIGITAL VLSI SoC Design and planning
 
-A Physical design project using opensource tools like Openlane/Sky130 PDK.
+A Physical design project using opensource tools like Openlane/Sky130 PDK. 
 
 
 
