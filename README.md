@@ -50,3 +50,5 @@ Day 1
   
   RISC-V is an open-source instruction set architecture (ISA) based on the Reduced Instruction Set Computing (RISC) principles.RISC-V offers a flexible, open-source alternative to proprietary instruction set architectures, enabling innovation, collaboration, and customization in the design of hardware and software systems.
 
+  
+
