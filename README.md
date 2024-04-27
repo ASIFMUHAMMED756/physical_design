@@ -56,6 +56,14 @@ Day 1
 
   - Soc design and OpenLANE
     - Introduction to all components of open-source digital asic design
+   
+      ![Screenshot 2024-04-27 13 49 11](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/7eb28597-31d4-4cab-8d50-ef66192d5e27)
+
+Opensource ASIC design includes EDA tools, PDK data and RTL designs.Electronic Design Automation (EDA) tools are software tools used by engineers and designers to design, analyze, and simulate electronic systems and integrated circuits (ICs). These tools facilitate the entire electronic design process, from concept and specification to implementation and verification. Various EDA tools are Qflow, OpenRoad, Openlane.
+
+A Process Design Kit (PDK) is a set of files, models, and documentation provided by semiconductor foundries to enable the design and simulation of integrated circuits (ICs) using their fabrication processes. These kits are essential for designers to create IC layouts, simulate circuit performance, and verify designs before manufacturing. 
+
+
     
 
 
