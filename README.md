@@ -197,6 +197,11 @@ Statistics after synthesis
  `run_floorplan`
  ![WhatsApp Image 2024-04-28 at 11 00 34 PM](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/df50a5ca-ac44-4063-892d-9cd06047f24b)
 
+ invoke the magic tool
+
+ ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/e5406887-af90-4ad7-86d6-ae702f3ba79d)
+
+
 
 
 
