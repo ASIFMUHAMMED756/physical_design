@@ -201,6 +201,9 @@ Statistics after synthesis
 
  ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/e5406887-af90-4ad7-86d6-ae702f3ba79d)
 
+ ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/9f086f8b-81f5-406b-9c52-e2a8293befd0)
+
+
 
 
 
