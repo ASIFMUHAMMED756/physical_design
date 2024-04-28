@@ -192,6 +192,12 @@ Statistics after synthesis
 ```
  flipflop ratio = 1613/14876 = 0.108 = 10.8%.
 
+ ##Day 2
+
+ `run_floorplan`
+ ![WhatsApp Image 2024-04-28 at 11 00 34 PM](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/df50a5ca-ac44-4063-892d-9cd06047f24b)
+
+
 
 
 
