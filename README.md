@@ -208,6 +208,10 @@ Statistics after synthesis
 
  ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/7ea6d7b4-a96f-47d1-91dc-d38365eae724)
 
+**Timing Characterization**
+ ![Screenshot 2024-04-29 20 23 58](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/4480e78c-73b1-4f79-a4dc-dc1e695088dd)
+
+
 
 
 
