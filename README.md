@@ -203,6 +203,13 @@ Statistics after synthesis
 
  ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/9f086f8b-81f5-406b-9c52-e2a8293befd0)
 
+ `run_placement`
+ ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/313495ad-5429-42a2-9ce4-7f37e40056b6)
+
+ ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/7ea6d7b4-a96f-47d1-91dc-d38365eae724)
+
+
+
 
 
 
