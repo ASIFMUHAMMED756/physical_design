@@ -219,6 +219,13 @@ Statistics after synthesis
 
   `clone the vsdstandardcell` repository
  ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/1502107a-764a-40b4-b263-1d9149fe42d6)
+ 
+inverter characteristics using ngspice
+ ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/442b6dcc-553e-4bfa-b164-63568f948fc2)
+
+transient analysis of inverter using ngspice
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/f6ea6ce0-0858-4a4d-a57b-8f317d3fdd41)
+
 
 
 
