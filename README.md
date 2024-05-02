@@ -192,7 +192,7 @@ Statistics after synthesis
 ```
  flipflop ratio = 1613/14876 = 0.108 = 10.8%.
 
- ##Day 2
+ ## Day 2
 
  `run_floorplan`
  ![WhatsApp Image 2024-04-28 at 11 00 34 PM](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/df50a5ca-ac44-4063-892d-9cd06047f24b)
@@ -225,6 +225,10 @@ inverter characteristics using ngspice
 
 transient analysis of inverter using ngspice
 ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/f6ea6ce0-0858-4a4d-a57b-8f317d3fdd41)
+
+## Day 4
+
+
 
 
 
