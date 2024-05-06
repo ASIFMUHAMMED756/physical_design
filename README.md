@@ -281,6 +281,26 @@ run_synthesis
 After the synthesis the chip area is increased and slack timings become 0
 ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/1bc0916f-b977-4b54-a295-dd521464f290)
 
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/11f83e5b-fbd1-4097-946c-42f67d5f97fe)
+
+Run floor planning using the commands
+```
+init_floorplan
+
+place_io
+
+tap_decap_or
+```
+`run_placement`
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/e1fa4335-bdec-417c-9089-f496d030b194)
+
+invoke the magic to see the placement result
+
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/e9ba185f-3918-44f0-8635-7a0fb3859f44)
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/f8c045b8-5b1d-4406-8633-60a0b1f7cda1)
+
+
+
 
 
 
