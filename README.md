@@ -299,6 +299,10 @@ invoke the magic to see the placement result
 ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/e9ba185f-3918-44f0-8635-7a0fb3859f44)
 ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/f8c045b8-5b1d-4406-8633-60a0b1f7cda1)
 
+while extending the image we an see that sky130_vsdinv we have created is included in picorv32a
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/1d3aa78f-01bb-4214-8115-2cafb354b824)
+
+
 
 
 
