@@ -212,7 +212,7 @@ Statistics after synthesis
 **Timing Characterization**
  ![Screenshot 2024-04-29 20 23 58](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/4480e78c-73b1-4f79-a4dc-dc1e695088dd)
 
- ## Day3
+ ## Day 3 Design library cell using Magic Layout and ngspice characterization
  
 `set ::env(FP_IO_MODE) 2`
  ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/9d979223-d9d3-46f0-8580-0242976ca9e9)
