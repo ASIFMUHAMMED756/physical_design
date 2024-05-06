@@ -226,7 +226,29 @@ inverter characteristics using ngspice
 transient analysis of inverter using ngspice
 ![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/f6ea6ce0-0858-4a4d-a57b-8f317d3fdd41)
 
-## Day 4
+## Day 4 Pre-layout timing analysis and importance of good clock tree
+
+Next step is to extract the '.lef' file from the '.mag' file to place it into the picorv32a flow.
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/f09a48e2-1248-4c46-815f-439f04ae944b)
+
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/95b68d6d-bfa0-42ac-9c81-de5d076a7519)
+
+edit the `config.tcl` file
+
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/79441dd3-5450-4386-b34c-d046be98403a)
+
+prepare the design again using the following commands
+```
+./flow.tcl -interactive
+package require openlane 0.9
+prep -design picorv32a
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]      
+add_lefs -src $lefs
+run_synthesis
+```
+
+
+
 
 
 
