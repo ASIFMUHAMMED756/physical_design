@@ -247,6 +247,42 @@ add_lefs -src $lefs
 run_synthesis
 ```
 
+The results after synthesis is as shown below
+
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/59f272e0-6c2d-47ae-9a8b-c5e228124861)
+Thre are slack timings
+
+wns(worst negative slack)= -24.89
+
+tns(total negative slack)= -759.46
+
+Steps to configure synthesis settings to fix slack and include vsdinv
+```
+prep -design picorv32a -tag 01-04_12-54 -overwrite
+
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+
+add_lefs -src $lefs
+
+echo $::env(SYNTH_STRATEGY)
+
+set ::env(SYNTH_STRATEGY) "DELAY 3"
+
+echo $::env(SYNTH_BUFFERING)
+
+echo $::env(SYNTH_SIZING)
+
+set ::env(SYNTH_SIZING) 1
+
+echo $::env(SYNTH_DRIVING_CELL)
+
+run_synthesis
+```
+After the synthesis the chip area is increased and slack timings become 0
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/1bc0916f-b977-4b54-a295-dd521464f290)
+
+
+
 
 
 
