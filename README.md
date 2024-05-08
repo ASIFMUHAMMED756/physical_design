@@ -306,7 +306,26 @@ while extending the image we can see that sky130_vsdinv we have created is inclu
 
 ![WhatsApp Image 2024-05-08 at 2 10 18 AM](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/22c00d7a-74a6-42f7-998e-7514bb6da823)
 
-## Day 5
+make a file pre_sta_conf
+`sta pre_sta.conf`
+
+run clock tree synthesis
+`run_cts`
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/c41e09e4-7144-4e83-9278-75fb149e028f)
+
+read def and lef files
+
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/c8486100-dc1e-4e69-8b66-2f3f18c5ca88)
+
+
+## Day 5 Final step for RTL2GDS using tritinRoute and openSTA
+Inorder to generate power distribution network,run the command `gen_pdn`
+
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/a9f479eb-9ad1-40d6-8aac-7dbf0e2854e9)
+![image](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/0b9d4bf0-a409-4d66-bd6a-69a08ca0e1ad)
+
+
+
 
 
 
