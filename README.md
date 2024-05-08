@@ -304,6 +304,13 @@ while extending the image we can see that sky130_vsdinv we have created is inclu
 
 **Timing analysis with ideal clocks using openSTA**
 
+![WhatsApp Image 2024-05-08 at 2 10 18 AM](https://github.com/ASIFMUHAMMED756/physical_design/assets/95519417/22c00d7a-74a6-42f7-998e-7514bb6da823)
+
+## Day 5
+
+
+
+
 
 
 
